@@ -1,1 +1,23 @@
 # intro-to-ai
+
+coursework from Introduction to Artificial Intelligence (Spring 2026) at Rutgers University.
+
+covers core AI topics including heuristic search, adversarial search, probabilistic reasoning, and neural network-based classification — implemented from scratch in Python, with written analysis typeset in LaTeX.
+
+---
+
+## assignments
+
+| | topic | key concepts |
+|---|---|---|
+| [assignment 1](./assignment1/) | fast trajectory replanning | repeated A\*, forward vs. backward search, adaptive heuristics |
+| [assignment 2](./assignment2/) | search problems in AI | A\* (tree search), BFS/DFS, Romania map, heuristic evaluation |
+| [assignment 3](./assignment3/) | probabilistic reasoning | Bayesian networks, variable elimination, HMMs, forward algorithm |
+| [final project](./project/) | face and digit classification | perceptron, custom 3-layer neural net, PyTorch, backpropagation |
+
+---
+
+## stack
+
+- Python (NumPy, PyTorch)
+- LaTeX (reports)
