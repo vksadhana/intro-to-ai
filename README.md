@@ -1,6 +1,6 @@
 # intro-to-ai
 
-coursework from Introduction to Artificial Intelligence (Spring 2026) at Rutgers University.
+Introduction to Artificial Intelligence
 
 covers core AI topics including heuristic search, adversarial search, probabilistic reasoning, and neural network-based classification — implemented from scratch in Python, with written analysis typeset in LaTeX.
 
